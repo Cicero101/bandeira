@@ -1,8 +1,8 @@
 # Bandeira
 
 
-## Print
+## Print:
 
 <p align="center">
-  <img src="images/Bandeira.jpg">
+  <img width="360" height="760" src="images/Bandeira.jpg">
 </p>
